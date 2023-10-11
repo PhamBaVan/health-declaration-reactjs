@@ -1,0 +1,16 @@
+.rowSeachNewForm {
+  display: flex;
+}
+.heading-h2-table h2 {
+  margin: 0;
+}
+.searchContainer {
+  width: 320px;
+}
+.searchContainer input {
+  width: 297px;
+  padding: 10px 10px;
+}
+.makeNewForm {
+  width: 760px;
+}

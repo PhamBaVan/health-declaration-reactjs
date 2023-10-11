@@ -1,0 +1,22 @@
+.formFormik {
+  display: flex;
+  flex-direction: column;
+}
+.error {
+  color: red;
+}
+.disableText {
+  display: none;
+}
+.showText {
+  display: block;
+}
+.btnAddmore {
+  margin-left: 10px;
+}
+.btnAddmoreWhenClick {
+  margin: 0;
+}
+.errorMessage {
+  color: red;
+}
